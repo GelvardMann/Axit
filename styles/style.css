@@ -77,14 +77,14 @@ nav {
    justify-content: space-between;
 }
 
-.logo_box h1 {
+.logo_box {
    font-size: 2em;
    text-transform: uppercase;
    font-weight: 800;
    color: #fff;
 }
 
-.logo_box h1::after {
+.logo_box::after {
    content: "IT";
    color: #ff8b38;
    font-weight: 100;
@@ -699,7 +699,7 @@ footer .icon:hover {
 
 @media screen and (max-width: 790px) {
    .wrapper {
-      padding: .5em 5%;
+      padding: 1em 5%;
    }
 
    .nav_menu {
