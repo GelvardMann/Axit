@@ -104,6 +104,7 @@ nav {
    margin: .5em;
    color: #fff;
    opacity: .7;
+   text-transform: uppercase;
 }
 
 .nav_menu li a:hover {
